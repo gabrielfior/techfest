@@ -1,0 +1,2600 @@
+        m/s^2
+Magn. X: -0.73          Y: 0.56         Z: 0.19         gauss
+Gyro  X: -1.86          Y: 4.42         Z: 1.47         dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 41055
+Accel X: 6.62           Y: 4.71         Z: 5.18         m/s^2
+Magn. X: -0.72          Y: 0.57         Z: 0.19         gauss
+Gyro  X: 1.42           Y: 7.90         Z: -6.25        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 41251
+Accel X: 6.47           Y: 4.31         Z: 4.43         m/s^2
+Magn. X: -0.72          Y: 0.57         Z: 0.20         gauss
+Gyro  X: 2.90           Y: -1.09        Z: 0.33         dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 41447
+Accel X: 6.63           Y: 3.53         Z: 4.81         m/s^2
+Magn. X: -0.72          Y: 0.58         Z: 0.19         gauss
+Gyro  X: 1.84           Y: 1.37         Z: -10.55       dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 41645
+Accel X: 6.49           Y: 4.35         Z: 4.63         m/s^2
+Magn. X: -0.72          Y: 0.58         Z: 0.20         gauss
+Gyro  X: 2.74           Y: 5.44         Z: -4.96        dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 41841
+Accel X: 6.62           Y: 3.81         Z: 4.28         m/s^2
+Magn. X: -0.72          Y: 0.58         Z: 0.21         gauss
+Gyro  X: -3.44          Y: 7.32         Z: -1.84        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 42039
+Accel X: 6.65           Y: 4.03         Z: 5.50         m/s^2
+Magn. X: -0.71          Y: 0.58         Z: 0.23         gauss
+Gyro  X: 3.76           Y: 3.84         Z: 7.48         dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 42235
+Accel X: 6.53           Y: 3.78         Z: 5.24         m/s^2
+Magn. X: -0.71          Y: 0.58         Z: 0.23         gauss
+Gyro  X: -1.18          Y: -0.41        Z: -3.15        dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 42433
+Accel X: 6.55           Y: 3.63         Z: 5.32         m/s^2
+Magn. X: -0.71          Y: 0.59         Z: 0.24         gauss
+Gyro  X: -4.79          Y: 5.66         Z: -1.18        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 42631
+Accel X: 6.13           Y: 3.82         Z: 5.13         m/s^2
+Magn. X: -0.71          Y: 0.59         Z: 0.23         gauss
+Gyro  X: -3.37          Y: -0.83        Z: -3.25        dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 42830
+Accel X: 6.44           Y: 4.09         Z: 4.85         m/s^2
+Magn. X: -0.71          Y: 0.59         Z: 0.23         gauss
+Gyro  X: -3.39          Y: 6.06         Z: -6.42        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 43027
+Accel X: 6.44           Y: 3.96         Z: 5.12         m/s^2
+Magn. X: -0.71          Y: 0.59         Z: 0.24         gauss
+Gyro  X: -1.92          Y: 0.79         Z: -7.23        dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 43225
+Accel X: 6.60           Y: 3.41         Z: 5.60         m/s^2
+Magn. X: -0.71          Y: 0.59         Z: 0.24         gauss
+Gyro  X: 2.14           Y: -0.11        Z: -6.12        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 43422
+Accel X: 6.14           Y: 2.71         Z: 5.87         m/s^2
+Magn. X: -0.71          Y: 0.59         Z: 0.25         gauss
+Gyro  X: 1.68           Y: 2.28         Z: -7.94        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 43619
+Accel X: 5.98           Y: 3.19         Z: 5.97         m/s^2
+Magn. X: -0.70          Y: 0.59         Z: 0.26         gauss
+Gyro  X: -0.78          Y: 4.38         Z: -14.06       dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 43818
+Accel X: 5.93           Y: 3.90         Z: 4.88         m/s^2
+Magn. X: -0.69          Y: 0.58         Z: 0.28         gauss
+Gyro  X: -9.44          Y: 25.01        Z: -5.45        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 44016
+Accel X: 5.06           Y: 3.39         Z: 6.20         m/s^2
+Magn. X: -0.66          Y: 0.59         Z: 0.34         gauss
+Gyro  X: -8.57          Y: 29.29        Z: -3.75        dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 44215
+Accel X: 3.91           Y: 3.36         Z: 8.15         m/s^2
+Magn. X: -0.60          Y: 0.61         Z: 0.43         gauss
+Gyro  X: -29.59         Y: 55.98        Z: -3.02        dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 44415
+Accel X: 2.11           Y: 4.54         Z: 7.81         m/s^2
+Magn. X: -0.52          Y: 0.61         Z: 0.50         gauss
+Gyro  X: -28.64         Y: 13.25        Z: -1.48        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 44614
+Accel X: 1.14           Y: 1.72         Z: 8.71         m/s^2
+Magn. X: -0.43          Y: 0.65         Z: 0.55         gauss
+Gyro  X: -20.85         Y: 45.20        Z: -4.28        dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 44814
+Accel X: -0.69          Y: 2.18         Z: 9.94         m/s^2
+Magn. X: -0.38          Y: 0.66         Z: 0.58         gauss
+Gyro  X: -6.83          Y: 7.41         Z: -0.78        dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 45013
+Accel X: 1.33           Y: 1.90         Z: 8.02         m/s^2
+Magn. X: -0.41          Y: 0.67         Z: 0.57         gauss
+Gyro  X: 10.96          Y: -25.81       Z: 15.21        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 45212
+Accel X: 2.46           Y: 1.97         Z: 8.28         m/s^2
+Magn. X: -0.49          Y: 0.64         Z: 0.52         gauss
+Gyro  X: 27.55          Y: -32.45       Z: 1.19         dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 45411
+Accel X: 2.64           Y: 2.90         Z: 8.07         m/s^2
+Magn. X: -0.52          Y: 0.62         Z: 0.50         gauss
+Gyro  X: 1.81           Y: 2.30         Z: -8.24        dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 45608
+Accel X: 2.03           Y: 2.91         Z: 8.58         m/s^2
+Magn. X: -0.49          Y: 0.63         Z: 0.52         gauss
+Gyro  X: -16.71         Y: 32.70        Z: -4.60        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 45807
+Accel X: 2.36           Y: 2.72         Z: 7.77         m/s^2
+Magn. X: -0.50          Y: 0.64         Z: 0.51         gauss
+Gyro  X: 27.87          Y: -38.42       Z: -1.76        dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 46007
+Accel X: 1.87           Y: 2.87         Z: 9.47         m/s^2
+Magn. X: -0.49          Y: 0.64         Z: 0.52         gauss
+Gyro  X: -15.68         Y: 46.61        Z: -24.58       dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 46208
+Accel X: 1.39           Y: 2.40         Z: 8.39         m/s^2
+Magn. X: -0.49          Y: 0.67         Z: 0.52         gauss
+Gyro  X: -10.34         Y: -48.73       Z: -47.65       dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 46409
+Accel X: 3.60           Y: 0.88         Z: 12.50        m/s^2
+Magn. X: -0.34          Y: 0.69         Z: 0.60         gauss
+Gyro  X: 129.80         Y: 124.13       Z: -22.79       dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 46612
+Accel X: -3.29          Y: 6.88         Z: 7.03         m/s^2
+Magn. X: -0.20          Y: 0.39         Z: 0.62         gauss
+Gyro  X: 53.61          Y: 63.46        Z: -117.00      dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 46814
+Accel X: -5.03          Y: 1.30         Z: 10.02        m/s^2
+Magn. X: -0.25          Y: 0.36         Z: 0.62         gauss
+Gyro  X: 9.69           Y: -66.12       Z: -155.30      dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 47017
+Accel X: -4.57          Y: 0.51         Z: 8.59         m/s^2
+Magn. X: -0.25          Y: 0.32         Z: 0.58         gauss
+Gyro  X: 26.96          Y: -70.82       Z: -170.75      dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 47219
+Accel X: -3.76          Y: 0.21         Z: 7.54         m/s^2
+Magn. X: -0.13          Y: 0.24         Z: 0.50         gauss
+Gyro  X: 36.45          Y: -39.71       Z: -119.94      dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 47422
+49.03           Y: -35.78       Z: -72.16       dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 48228
+Accel X: -3.53          Y: 2.28         Z: 10.82        m/s^2
+Magn. X: 0.24           Y: 0.57         Z: 0.51         gauss
+Gyro  X: -20.26         Y: -40.65       Z: 21.39        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 48430
+Accel X: -4.95          Y: 0.26         Z: 8.03         m/s^2
+Magn. X: 0.15           Y: 0.57         Z: 0.58         gauss
+Gyro  X: 4.94           Y: 15.65        Z: -12.09       dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 48628
+Accel X: -3.02          Y: 2.76         Z: 6.26         m/s^2
+Magn. X: 0.15           Y: 0.54         Z: 0.57         gauss
+Gyro  X: -0.73          Y: 31.42        Z: 38.48        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 48827
+Accel X: -4.12          Y: 1.22         Z: 10.03        m/s^2
+Magn. X: 0.17           Y: 0.51         Z: 0.55         gauss
+Gyro  X: -4.09          Y: -38.05       Z: 3.49         dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 49027
+Accel X: -3.94          Y: -0.27        Z: 13.08        m/s^2
+Magn. X: 0.17           Y: 0.59         Z: 0.55         gauss
+Gyro  X: -19.85         Y: 42.37        Z: -67.85       dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 49230
+Accel X: -2.23          Y: 0.63         Z: 9.48         m/s^2
+Magn. X: 0.23           Y: 0.63         Z: 0.52         gauss
+Gyro  X: 14.96          Y: 45.37        Z: 9.42         dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 49427
+Accel X: -1.58          Y: 1.22         Z: 9.94         m/s^2
+Magn. X: 0.23           Y: 0.57         Z: 0.50         gauss
+Gyro  X: 9.22           Y: 3.38         Z: 15.78        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 49624
+Accel X: -2.22          Y: -1.15        Z: 8.72         m/s^2
+Magn. X: 0.21           Y: 0.59         Z: 0.48         gauss
+Gyro  X: 2.71           Y: -0.85        Z: -111.64      dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 49824
+Accel X: -2.38          Y: -0.45        Z: 6.79         m/s^2
+Magn. X: 0.18           Y: 0.78         Z: 0.49         gauss
+Gyro  X: -25.77         Y: -80.37       Z: -108.04      dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 50028
+Accel X: -1.71          Y: 0.57         Z: 11.08        m/s^2
+Magn. X: 0.07           Y: 0.84         Z: 0.53         gauss
+Gyro  X: 43.30          Y: -6.05        Z: -105.35      dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 50230
+Accel X: -1.07          Y: -0.23        Z: 9.11         m/s^2
+Magn. X: 0.01           Y: 0.86         Z: 0.54         gauss
+Gyro  X: -29.04         Y: -2.07        Z: -69.35       dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 50432
+Accel X: -3.22          Y: 2.10         Z: 9.07         m/s^2
+Magn. X: 0.00           Y: 0.86         Z: 0.53         gauss
+Gyro  X: -3.98          Y: 3.69         Z: -26.47       dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 50630
+Accel X: -1.57          Y: -0.54        Z: 11.49        m/s^2
+Magn. X: 0.05           Y: 0.88         Z: 0.49         gauss
+Gyro  X: -47.73         Y: 13.10        Z: 16.51        dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 50832
+Accel X: -2.37          Y: -0.29        Z: 8.35         m/s^2
+Magn. X: 0.08           Y: 0.91         Z: 0.45         gauss
+Gyro  X: -0.20          Y: -0.12        Z: 14.65        dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 51032
+Accel X: -2.71          Y: 1.05         Z: 7.77         m/s^2
+Magn. X: 0.11           Y: 0.84         Z: 0.46         gauss
+Gyro  X: 53.98          Y: -38.63       Z: 55.47        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 51231
+Accel X: -2.54          Y: 2.62         Z: 12.52        m/s^2
+Magn. X: 0.09           Y: 0.76         Z: 0.48         gauss
+Gyro  X: 25.69          Y: 17.66        Z: -3.45        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 51431
+Accel X: -0.84          Y: -0.52        Z: 10.96        m/s^2
+Magn. X: 0.11           Y: 0.76         Z: 0.47         gauss
+Gyro  X: 12.44          Y: -16.62       Z: -2.34        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 51633
+Accel X: -0.87          Y: 1.31         Z: 5.91         m/s^2
+Magn. X: 0.13           Y: 0.69         Z: 0.51         gauss
+Gyro  X: 21.82          Y: -31.70       Z: 33.06        dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 51833
+Accel X: -0.97          Y: 1.17         Z: 10.39        m/s^2
+Magn. X: 0.12           Y: 0.55         Z: 0.55         gauss
+Gyro  X: -4.98          Y: -1.12        Z: 94.45        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 52032
+Accel X: 2.81           Y: -0.02        Z: 10.26        m/s^2
+Magn. X: 0.02           Y: 0.52         Z: 0.51         gauss
+Gyro  X: -10.23         Y: -27.89       Z: 18.25        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 52234
+Accel X: 1.10           Y: 1.59         Z: 5.57         m/s^2
+Magn. X: 0.12           Y: 0.60         Z: 0.45         gauss
+Gyro  X: 13.78          Y: 38.41        Z: -108.36      dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 52434
+Accel X: 0.13           Y: 0.73         Z: 12.12        m/s^2
+Magn. X: 0.11           Y: 0.71         Z: 0.48         gauss
+Gyro  X: -28.79         Y: -34.12       Z: -84.80       dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 52636
+Accel X: 0.37           Y: 0.59         Z: 6.84         m/s^2
+Magn. X: 0.03           Y: 0.73         Z: 0.54         gauss
+Gyro  X: 16.84          Y: -5.39        Z: -49.15       dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 52834
+Accel X: -0.60          Y: -0.02        Z: 3.48         m/s^2
+Magn. X: 0.05           Y: 0.69         Z: 0.56         gauss
+Gyro  X: 4.12           Y: 15.44        Z: -15.36       dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 53034
+Accel X: -2.04          Y: -3.05        Z: 10.35        m/s^2
+Magn. X: 0.13           Y: 0.76         Z: 0.60         gauss
+Gyro  X: -26.12         Y: 11.65        Z: -30.82       dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 53237
+Accel X: 0.26           Y: -2.13        Z: 11.16        m/s^2
+Magn. X: 0.13           Y: 0.90         Z: 0.68         gauss
+Gyro  X: -18.16         Y: -46.36       Z: 40.44        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 53439
+Accel X: 0.89           Y: -4.30        Z: 13.64        m/s^2
+Magn. X: 0.20           Y: 0.99         Z: 0.72         gauss
+Gyro  X: -45.33         Y: -9.84        Z: 18.76        dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 53640
+Accel X: -1.82          Y: 0.85         Z: 9.75         m/s^2
+Magn. X: 0.36           Y: 0.86         Z: 0.67         gauss
+Gyro  X: 5.35           Y: 10.75        Z: -10.23       dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 53839
+Accel X: -1.24          Y: 0.64         Z: 9.46         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: -5.25          Y: 5.26         Z: -5.26        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 54036
+Accel X: -1.42          Y: 0.60         Z: 9.67         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: -0.95          Y: 3.49         Z: -5.14        dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 54234
+Accel X: -1.38          Y: 0.57         Z: 9.52         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 1.37           Y: -1.29        Z: -4.59        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 54430
+Accel X: -1.29          Y: 0.62         Z: 9.46         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: 1.44           Y: -0.39        Z: -4.48        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 54628
+Accel X: -1.35          Y: 0.59         Z: 9.41         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: 1.32           Y: 0.39         Z: -4.86        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 54825
+Accel X: -1.35          Y: 0.60         Z: 9.52         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 0.60           Y: 0.00         Z: -2.28        dps
+Temp: 30.50 *C
+**********************
+ 
+Time: 55021
+Accel X: -1.37          Y: 0.63         Z: 9.50         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: 1.02           Y: 0.30         Z: -4.75        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 55218
+Accel X: -1.38          Y: 0.58         Z: 9.50         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: 1.06           Y: 0.43         Z: -4.55        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 55414
+Accel X: -1.39          Y: 0.62         Z: 9.46         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 0.85           Y: 0.20         Z: -4.61        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 55611
+Accel X: -1.32          Y: 0.60         Z: 9.47         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: 1.27           Y: 0.04         Z: -4.46        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 55808
+Accel X: -1.37          Y: 0.58         Z: 9.58         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: 0.98           Y: 0.04         Z: -4.73        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 56004
+Accel X: -1.33          Y: 0.59         Z: 9.48         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 1.16           Y: 0.44         Z: -4.48        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 56201
+Accel X: -1.35          Y: 0.59         Z: 9.49         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 1.30           Y: 0.32         Z: -4.48        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 56398
+Accel X: -1.35          Y: 0.60         Z: 9.58         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: 1.21           Y: 0.11         Z: -4.32        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 56594
+Accel X: -1.36          Y: 0.59         Z: 9.50         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 0.79           Y: 0.31         Z: -4.21        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 56791
+Accel X: -1.34          Y: 0.56         Z: 9.39         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 0.81           Y: -0.17        Z: -4.29        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 56988
+Accel X: -1.34          Y: 0.58         Z: 9.48         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 1.04           Y: -0.03        Z: -4.79        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 57186
+Accel X: -1.38          Y: 0.60         Z: 9.51         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 0.91           Y: 0.14         Z: -4.30        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 57383
+Accel X: -1.37          Y: 0.57         Z: 9.54         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: 1.21           Y: 0.53         Z: -4.36        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 57579
+Accel X: -1.34          Y: 0.61         Z: 9.51         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: 0.76           Y: 0.28         Z: -4.27        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 57776
+Accel X: -1.40          Y: 0.58         Z: 9.49         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 1.56           Y: 0.37         Z: -4.58        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 57972
+Accel X: -1.34          Y: 0.59         Z: 9.54         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: 1.02           Y: -0.03        Z: -4.33        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 58170
+Accel X: -1.38          Y: 0.58         Z: 9.53         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: 1.70           Y: -0.16        Z: -4.22        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 58368
+Accel X: -1.34          Y: 0.56         Z: 9.40         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: 0.78           Y: 0.10         Z: -4.87        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 58564
+Accel X: -1.38          Y: 0.60         Z: 9.47         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: 1.41           Y: 0.57         Z: -4.48        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 58761
+Accel X: -1.34          Y: 0.57         Z: 9.56         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 0.75           Y: 0.29         Z: -4.55        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 58957
+Accel X: -1.36          Y: 0.60         Z: 9.44         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 1.04           Y: 0.26         Z: -4.49        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 59153
+Accel X: -1.39          Y: 0.58         Z: 9.46         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: 0.88           Y: -0.06        Z: -4.33        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 59351
+Accel X: -1.38          Y: 0.58         Z: 9.48         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 0.84           Y: 0.73         Z: -4.65        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 59547
+Accel X: -1.36          Y: 0.56         Z: 9.49         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: 0.95           Y: 0.16         Z: -4.48        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 59744
+Accel X: -1.34          Y: 0.58         Z: 9.40         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: 1.43           Y: 0.17         Z: -4.55        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 59941
+Accel X: -1.34          Y: 0.57         Z: 9.52         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 1.38           Y: 0.25         Z: -4.38        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 60137
+Accel X: -1.35          Y: 0.58         Z: 9.49         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 1.49           Y: 0.12         Z: -4.47        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 60334
+Accel X: -1.36          Y: 0.56         Z: 9.44         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 0.87           Y: -0.12        Z: -4.39        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 60531
+Accel X: -1.39          Y: 0.59         Z: 9.49         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 0.92           Y: 0.16         Z: -4.25        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 60728
+Accel X: -1.35          Y: 0.57         Z: 9.42         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 1.26           Y: 0.20         Z: -4.51        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 60925
+Accel X: -1.33          Y: 0.57         Z: 9.53         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 0.68           Y: 0.21         Z: -4.50        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 61121
+Accel X: -1.36          Y: 0.57         Z: 9.49         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 1.15           Y: 0.52         Z: -4.37        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 61318
+Accel X: -1.36          Y: 0.60         Z: 9.59         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 1.21           Y: 0.15         Z: -4.77        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 61514
+Accel X: -1.37          Y: 0.58         Z: 9.53         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 1.44           Y: 0.34         Z: -4.38        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 61711
+Accel X: -1.37          Y: 0.55         Z: 9.41         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 1.24           Y: -0.04        Z: -4.49        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 61909
+Accel X: -1.36          Y: 0.58         Z: 9.54         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 1.01           Y: 0.17         Z: -4.23        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 62105
+Accel X: -1.36          Y: 0.57         Z: 9.42         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: 0.67           Y: 0.21         Z: -4.38        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 62302
+Accel X: -1.35          Y: 0.58         Z: 9.48         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 0.88           Y: 0.37         Z: -4.51        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 62499
+Accel X: -1.33          Y: 0.57         Z: 9.45         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 1.32           Y: 0.20         Z: -4.30        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 62695
+Accel X: -1.35          Y: 0.58         Z: 9.47         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: 1.30           Y: 0.19         Z: -4.46        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 62892
+Accel X: -1.37          Y: 0.57         Z: 9.56         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 0.62           Y: 0.15         Z: -4.51        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 63088
+Accel X: -1.34          Y: 0.59         Z: 9.52         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 0.82           Y: 0.00         Z: -4.70        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 63284
+Accel X: -1.39          Y: 0.58         Z: 9.49         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 0.90           Y: 0.06         Z: -4.29        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 63481
+Accel X: -1.37          Y: 0.58         Z: 9.36         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 1.29           Y: -0.30        Z: -4.60        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 63678
+Accel X: -1.37          Y: 0.57         Z: 9.48         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 1.15           Y: -0.13        Z: -4.37        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 63876
+Accel X: -1.34          Y: 0.58         Z: 9.52         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 1.20           Y: 0.27         Z: -4.44        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 64072
+Accel X: -1.29          Y: 0.57         Z: 9.45         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: 0.74           Y: -0.11        Z: -4.46        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 64270
+Accel X: -1.39          Y: 0.58         Z: 9.51         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 1.28           Y: 0.09         Z: -4.54        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 64467
+Accel X: -1.37          Y: 0.61         Z: 9.55         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: 1.46           Y: 0.45         Z: -4.50        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 64663
+Accel X: -1.38          Y: 0.59         Z: 9.53         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 1.34           Y: 0.43         Z: -4.45        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 64860
+Accel X: -1.38          Y: 0.60         Z: 9.54         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.68         gauss
+Gyro  X: 1.10           Y: -0.17        Z: -4.63        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 65058
+Accel X: -1.36          Y: 0.59         Z: 9.47         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 0.50           Y: 0.30         Z: -4.02        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 65254
+Accel X: -1.36          Y: 0.59         Z: 9.46         m/s^2
+Magn. X: 0.35           Y: 0.87         Z: 0.67         gauss
+Gyro  X: 1.10           Y: 0.38         Z: -4.44        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 65451
+Accel X: -1.11          Y: 0.40         Z: 11.59        m/s^2
+Magn. X: 0.35           Y: 0.90         Z: 0.67         gauss
+Gyro  X: -4.15          Y: -6.48        Z: -2.84        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 65650
+Accel X: -1.31          Y: 0.23         Z: 10.32        m/s^2
+Magn. X: 0.35           Y: 0.90         Z: 0.67         gauss
+Gyro  X: -5.99          Y: 10.71        Z: -0.52        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 65850
+Accel X: -4.28          Y: -0.81        Z: 9.28         m/s^2
+Magn. X: 0.43           Y: 0.97         Z: 0.56         gauss
+Gyro  X: -10.29         Y: 16.83        Z: -49.85       dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 66052
+Accel X: -5.98          Y: -1.54        Z: 7.38         m/s^2
+Magn. X: 0.45           Y: 1.08         Z: 0.43         gauss
+Gyro  X: -66.98         Y: 127.12       Z: -35.87       dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 66255
+Accel X: -5.63          Y: -2.66        Z: 10.94        m/s^2
+Magn. X: 0.51           Y: 1.08         Z: 0.23         gauss
+Gyro  X: -50.02         Y: 27.45        Z: 47.67        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 66456
+Accel X: 4.25           Y: -1.45        Z: 19.60        m/s^2
+Magn. X: 0.48           Y: 1.01         Z: 0.30         gauss
+Gyro  X: 70.84          Y: -52.68       Z: -55.10       dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 66658
+Accel X: -5.96          Y: -1.82        Z: 1.36         m/s^2
+Magn. X: 0.36           Y: 0.99         Z: 0.22         gauss
+Gyro  X: -286.02        Y: 283.92       Z: 10.63        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 66861
+Accel X: -4.17          Y: -2.47        Z: 2.19         m/s^2
+Magn. X: -0.60          Y: 0.46         Z: -0.24        gauss
+Gyro  X: -286.02        Y: 283.92       Z: 48.54        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 67066
+Accel X: -3.85          Y: -2.34        Z: 1.93         m/s^2
+Magn. X: -0.01          Y: 0.98         Z: 0.36         gauss
+Gyro  X: -286.02        Y: 283.92       Z: -45.45       dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 67270
+Accel X: -4.31          Y: -1.19        Z: 2.01         m/s^2
+Magn. X: -0.44          Y: 0.77         Z: -0.28        gauss
+Gyro  X: -286.02        Y: 283.92       Z: -107.56      dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 67477
+Accel X: 16.53          Y: 4.41         Z: -13.19       m/s^2
+Magn. X: -0.34          Y: 0.71         Z: 0.45         gauss
+Gyro  X: 81.84          Y: -286.72      Z: -96.50       dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 67683
+Accel X: 7.57           Y: 3.18         Z: 9.34         m/s^2
+Magn. X: -0.45          Y: 0.59         Z: 0.42         gauss
+Gyro  X: -21.84         Y: -15.46       Z: -6.11        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 67884
+Accel X: 4.45           Y: 2.71         Z: 3.53         m/s^2
+Magn. X: -0.43          Y: 0.56         Z: 0.44         gauss
+Gyro  X: 15.85          Y: 31.95        Z: -29.96       dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 68083
+Accel X: 2.96           Y: 1.92         Z: 4.06         m/s^2
+Magn. X: -0.38          Y: 0.61         Z: 0.48         gauss
+Gyro  X: -77.93         Y: 85.35        Z: -50.46       dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 68284
+Accel X: 5.98           Y: 4.09         Z: 11.62        m/s^2
+Magn. X: -0.28          Y: 0.67         Z: 0.53         gauss
+Gyro  X: -3.26          Y: 38.26        Z: 20.38        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 68484
+Accel X: 4.40           Y: 1.71         Z: 14.14        m/s^2
+Magn. X: -0.15          Y: 0.74         Z: 0.55         gauss
+Gyro  X: 14.76          Y: 89.96        Z: 33.86        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 68683
+Accel X: -0.24          Y: 0.23         Z: 9.31         m/s^2
+Magn. X: 0.00           Y: 0.81         Z: 0.52         gauss
+Gyro  X: -34.75         Y: 40.49        Z: -12.46       dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 68884
+Accel X: -0.87          Y: 0.67         Z: 10.44        m/s^2
+Magn. X: 0.04           Y: 0.81         Z: 0.50         gauss
+Gyro  X: 26.45          Y: 29.43        Z: 6.85         dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 69083
+Accel X: -1.13          Y: 0.40         Z: 9.22         m/s^2
+Magn. X: 0.05           Y: 0.81         Z: 0.50         gauss
+Gyro  X: 0.56           Y: -4.67        Z: -2.06        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 69280
+Accel X: -1.17          Y: 0.67         Z: 9.44         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.50         gauss
+Gyro  X: -0.16          Y: 0.52         Z: -4.65        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 69478
+Accel X: -1.33          Y: 0.63         Z: 9.56         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.50         gauss
+Gyro  X: 0.52           Y: 1.54         Z: -4.48        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 69674
+Accel X: -1.31          Y: 0.61         Z: 9.59         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.50         gauss
+Gyro  X: 0.62           Y: 1.05         Z: -4.23        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 69870
+Accel X: -1.35          Y: 0.62         Z: 9.49         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.50         gauss
+Gyro  X: 1.17           Y: -0.03        Z: -4.34        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 70068
+Accel X: -1.33          Y: 0.60         Z: 9.55         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.49         gauss
+Gyro  X: 1.43           Y: 0.00         Z: -4.26        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 70265
+Accel X: -1.32          Y: 0.62         Z: 9.39         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.50         gauss
+Gyro  X: 1.35           Y: 0.57         Z: -4.31        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 70461
+Accel X: -1.40          Y: 0.63         Z: 9.55         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.50         gauss
+Gyro  X: 1.29           Y: 0.07         Z: -4.24        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 70658
+Accel X: -1.34          Y: 0.62         Z: 9.60         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.49         gauss
+Gyro  X: 0.77           Y: -0.22        Z: -4.28        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 70855
+Accel X: -1.29          Y: 0.64         Z: 9.55         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.50         gauss
+Gyro  X: 1.26           Y: 0.30         Z: -3.92        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 71052
+Accel X: -1.32          Y: 0.61         Z: 9.48         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.50         gauss
+Gyro  X: 1.04           Y: 0.10         Z: -4.58        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 71249
+Accel X: -1.33          Y: 0.62         Z: 9.43         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.50         gauss
+Gyro  X: 1.41           Y: 0.25         Z: -4.30        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 71445
+Accel X: -1.36          Y: 0.63         Z: 9.60         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.50         gauss
+Gyro  X: 1.71           Y: 0.04         Z: -4.59        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 71642
+Accel X: -1.34          Y: 0.62         Z: 9.46         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.50         gauss
+Gyro  X: 0.94           Y: 0.34         Z: -4.21        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 71838
+Accel X: -1.31          Y: 0.62         Z: 9.44         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.49         gauss
+Gyro  X: 0.95           Y: 0.49         Z: -4.25        dps
+Temp: 30.62 *C
+**********************
+ 
+Time: 72035
+Accel X: -1.32          Y: 0.64         Z: 9.57         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.50         gauss
+Gyro  X: 0.87           Y: 0.16         Z: -4.33        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 72232
+Accel X: -1.34          Y: 0.64         Z: 9.43         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.50         gauss
+Gyro  X: 0.85           Y: -0.05        Z: -4.22        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 72429
+Accel X: -1.34          Y: 0.63         Z: 9.52         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.50         gauss
+Gyro  X: 0.85           Y: 0.09         Z: -4.09        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 72626
+Accel X: -1.33          Y: 0.63         Z: 9.43         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.50         gauss
+Gyro  X: 1.23           Y: 0.18         Z: -4.34        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 72822
+Accel X: -1.33          Y: 0.64         Z: 9.48         m/s^2
+Magn. X: 0.06           Y: 0.82         Z: 0.50         gauss
+Gyro  X: 1.00           Y: 0.45         Z: -4.03        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 73019
+Accel X: -1.34          Y: 0.63         Z: 9.52         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.49         gauss
+Gyro  X: 0.55           Y: 0.33         Z: -4.35        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 73216
+Accel X: -1.37          Y: 0.63         Z: 9.47         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.50         gauss
+Gyro  X: 1.15           Y: 0.18         Z: -4.24        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 73412
+Accel X: -1.31          Y: 0.62         Z: 9.63         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.49         gauss
+Gyro  X: 1.15           Y: 0.00         Z: -4.65        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 73609
+Accel X: -1.36          Y: 0.61         Z: 9.54         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.50         gauss
+Gyro  X: 0.91           Y: 0.03         Z: -4.34        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 73806
+Accel X: -1.21          Y: 0.35         Z: 9.58         m/s^2
+Magn. X: 0.06           Y: 0.81         Z: 0.50         gauss
+Gyro  X: 13.21          Y: 0.29         Z: -4.42        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 74003
+Accel X: -2.52          Y: 0.39         Z: 14.63        m/s^2
+Magn. X: 0.05           Y: 0.81         Z: 0.50         gauss
+Gyro  X: -10.89         Y: -3.89        Z: -13.14       dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 74205
+Accel X: -1.02          Y: 1.17         Z: 9.82         m/s^2
+Magn. X: 0.06           Y: 0.82         Z: 0.48         gauss
+Gyro  X: 4.54           Y: -6.20        Z: -16.20       dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 74404
+Accel X: -2.08          Y: 1.27         Z: 9.29         m/s^2
+Magn. X: 0.05           Y: 0.79         Z: 0.47         gauss
+Gyro  X: 4.66           Y: 5.20         Z: 16.32        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 74599
+Accel X: -0.76          Y: -0.99        Z: 5.34         m/s^2
+Magn. X: 0.07           Y: 0.79         Z: 0.44         gauss
+Gyro  X: -43.55         Y: 15.81        Z: -13.03       dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 74802
+Accel X: 0.37           Y: 1.22         Z: 6.28         m/s^2
+Magn. X: 0.07           Y: 0.82         Z: 0.42         gauss
+Gyro  X: 3.38           Y: -29.54       Z: -26.60       dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 75001
+Accel X: -1.00          Y: 0.68         Z: 13.25        m/s^2
+Magn. X: -0.00          Y: 0.80         Z: 0.47         gauss
+Gyro  X: 29.31          Y: -56.23       Z: -38.75       dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 75203
+Accel X: -1.89          Y: 0.23         Z: 11.46        m/s^2
+Magn. X: -0.01          Y: 0.80         Z: 0.47         gauss
+Gyro  X: -23.44         Y: 48.76        Z: -6.95        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 75405
+Accel X: -0.05          Y: 0.93         Z: 7.52         m/s^2
+Magn. X: 0.07           Y: 0.85         Z: 0.40         gauss
+Gyro  X: -25.68         Y: 45.54        Z: 2.05         dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 75604
+Accel X: -0.71          Y: 1.10         Z: 6.57         m/s^2
+Magn. X: 0.10           Y: 0.86         Z: 0.37         gauss
+Gyro  X: 13.58          Y: -13.73       Z: -4.89        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 75803
+Accel X: 0.13           Y: 0.71         Z: 7.88         m/s^2
+Magn. X: 0.04           Y: 0.83         Z: 0.43         gauss
+Gyro  X: 39.08          Y: -74.61       Z: -18.21       dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 76003
+Accel X: -2.28          Y: 0.53         Z: 13.08        m/s^2
+Magn. X: -0.07          Y: 0.76         Z: 0.49         gauss
+Gyro  X: 40.82          Y: -58.32       Z: -1.37        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 76205
+Accel X: -6.32          Y: -2.19        Z: 19.60        m/s^2
+Magn. X: -0.13          Y: 0.73         Z: 0.51         gauss
+Gyro  X: -51.42         Y: 23.61        Z: -51.94       dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 76409
+Accel X: 0.20           Y: 0.57         Z: -0.15        m/s^2
+Magn. X: -0.05          Y: 0.55         Z: 0.43         gauss
+Gyro  X: 286.58         Y: -152.34      Z: -89.78       dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 76612
+Accel X: -2.16          Y: -1.78        Z: -0.21        m/s^2
+Magn. X: -0.03          Y: 0.25         Z: 0.01         gauss
+Gyro  X: 286.58         Y: -286.72      Z: -260.21      dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 76819
+Accel X: -4.73          Y: -0.32        Z: 0.16         m/s^2
+Magn. X: 0.10           Y: 0.56         Z: 0.43         gauss
+Gyro  X: 23.84          Y: -286.72      Z: -263.24      dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 77023
+Accel X: -4.31          Y: 1.45         Z: -0.27        m/s^2
+Magn. X: -0.70          Y: 0.67         Z: 0.19         gauss
+Gyro  X: -207.45        Y: -286.72      Z: -118.04      dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 77230
+Accel X: 8.02           Y: -6.68        Z: -19.59       m/s^2
+Magn. X: -0.74          Y: 0.52         Z: 0.01         gauss
+Gyro  X: -4.35          Y: 95.02        Z: -21.12       dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 77433
+Accel X: 8.99           Y: 2.14         Z: -6.29        m/s^2
+Magn. X: -0.73          Y: 0.45         Z: 0.10         gauss
+Gyro  X: -40.43         Y: 81.23        Z: -103.43      dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 77635
+Accel X: 8.26           Y: 1.83         Z: 1.66         m/s^2
+Magn. X: -0.55          Y: 0.32         Z: 0.36         gauss
+Gyro  X: -58.65         Y: 174.75       Z: -105.11      dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 77838
+Accel X: 2.92           Y: 3.19         Z: 7.52         m/s^2
+Magn. X: -0.06          Y: 0.64         Z: 0.59         gauss
+Gyro  X: -104.95        Y: 207.81       Z: 28.84        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 78040
+Accel X: -2.59          Y: -0.73        Z: 11.41        m/s^2
+Magn. X: 0.20           Y: 0.84         Z: 0.46         gauss
+Gyro  X: -96.61         Y: 62.95        Z: -90.97       dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 78243
+Accel X: -3.59          Y: -1.15        Z: 10.05        m/s^2
+Magn. X: 0.26           Y: 0.93         Z: 0.37         gauss
+Gyro  X: 24.51          Y: 64.12        Z: -25.20       dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 78444
+Accel X: -5.57          Y: -0.58        Z: 7.32         m/s^2
+Magn. X: 0.29           Y: 0.92         Z: 0.34         gauss
+Gyro  X: -5.77          Y: 3.96         Z: 2.30         dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 78642
+Accel X: -5.99          Y: -1.70        Z: 8.40         m/s^2
+Magn. X: 0.31           Y: 0.94         Z: 0.29         gauss
+Gyro  X: -11.10         Y: 10.89        Z: -0.12        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 78843
+Accel X: -4.65          Y: -0.78        Z: 7.94         m/s^2
+Magn. X: 0.28           Y: 0.91         Z: 0.35         gauss
+Gyro  X: 45.68          Y: -45.49       Z: -11.65       dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 79044
+Accel X: -3.92          Y: 0.40         Z: 8.17         m/s^2
+Magn. X: 0.26           Y: 0.91         Z: 0.38         gauss
+Gyro  X: -33.54         Y: -2.11        Z: 12.53        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 79244
+Accel X: -4.88          Y: -2.70        Z: 8.98         m/s^2
+Magn. X: 0.33           Y: 0.91         Z: 0.28         gauss
+Gyro  X: -61.67         Y: 42.45        Z: 54.52        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 79445
+Accel X: -7.27          Y: -2.77        Z: 10.49        m/s^2
+Magn. X: 0.39           Y: 0.90         Z: 0.07         gauss
+Gyro  X: 13.80          Y: -31.48       Z: -89.06       dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 79647
+Accel X: -7.88          Y: -3.74        Z: 3.25         m/s^2
+Magn. X: 0.36           Y: 0.95         Z: 0.16         gauss
+Gyro  X: -3.54          Y: 76.96        Z: 6.00         dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 79846
+Accel X: -5.92          Y: -3.26        Z: 5.49         m/s^2
+Magn. X: 0.34           Y: 0.91         Z: -0.14        gauss
+Gyro  X: 0.92           Y: 32.53        Z: 3.51         dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 80045
+Accel X: -4.75          Y: -1.90        Z: 3.63         m/s^2
+Magn. X: 0.37           Y: 0.90         Z: 0.22         gauss
+Gyro  X: 52.33          Y: -164.47      Z: 13.75        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 80246
+Accel X: -1.72          Y: -1.23        Z: 5.61         m/s^2
+Magn. X: 0.31           Y: 0.85         Z: 0.43         gauss
+Gyro  X: 18.72          Y: -25.28       Z: -28.01       dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 80448
+Accel X: -2.95          Y: -1.70        Z: 12.81        m/s^2
+Magn. X: 0.25           Y: 0.82         Z: 0.60         gauss
+Gyro  X: 35.05          Y: -39.93       Z: -2.51        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 80650
+Accel X: -0.62          Y: -0.33        Z: 13.47        m/s^2
+Magn. X: 0.29           Y: 0.82         Z: 0.68         gauss
+Gyro  X: 17.43          Y: -42.22       Z: 11.89        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 80852
+Accel X: -2.15          Y: -1.50        Z: 7.74         m/s^2
+Magn. X: 0.37           Y: 0.82         Z: 0.66         gauss
+Gyro  X: -110.56        Y: 137.57       Z: 5.02         dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 81053
+Accel X: 0.08           Y: 0.88         Z: 8.05         m/s^2
+Magn. X: 0.32           Y: 0.79         Z: 0.70         gauss
+Gyro  X: 12.92          Y: -32.01       Z: 0.53         dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 81251
+Accel X: -1.96          Y: 0.47         Z: 9.75         m/s^2
+Magn. X: 0.38           Y: 0.82         Z: 0.65         gauss
+Gyro  X: 15.13          Y: -37.61       Z: -0.74        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 81451
+Accel X: -1.92          Y: 0.56         Z: 9.72         m/s^2
+Magn. X: 0.38           Y: 0.82         Z: 0.66         gauss
+Gyro  X: -3.46          Y: 8.81         Z: -5.41        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 81648
+Accel X: -1.61          Y: 0.63         Z: 9.67         m/s^2
+Magn. X: 0.37           Y: 0.81         Z: 0.66         gauss
+Gyro  X: -2.83          Y: 12.65        Z: -5.07        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 81847
+Accel X: -1.45          Y: 0.65         Z: 9.46         m/s^2
+Magn. X: 0.37           Y: 0.81         Z: 0.66         gauss
+Gyro  X: -0.66          Y: 6.47         Z: -4.84        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 82045
+Accel X: -1.47          Y: 0.64         Z: 9.48         m/s^2
+Magn. X: 0.37           Y: 0.81         Z: 0.66         gauss
+Gyro  X: -0.23          Y: 3.44         Z: -4.59        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 82242
+Accel X: -1.49          Y: 0.65         Z: 9.50         m/s^2
+Magn. X: 0.37           Y: 0.81         Z: 0.66         gauss
+Gyro  X: 0.38           Y: 1.48         Z: -4.45        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 82439
+Accel X: -1.50          Y: 0.63         Z: 9.63         m/s^2
+Magn. X: 0.37           Y: 0.81         Z: 0.66         gauss
+Gyro  X: 1.01           Y: 0.59         Z: -4.02        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 82635
+Accel X: -1.48          Y: 0.66         Z: 9.58         m/s^2
+Magn. X: 0.37           Y: 0.81         Z: 0.66         gauss
+Gyro  X: 1.20           Y: 0.28         Z: -4.10        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 82832
+Accel X: -1.46          Y: 0.67         Z: 9.44         m/s^2
+Magn. X: 0.37           Y: 0.81         Z: 0.66         gauss
+Gyro  X: 0.74           Y: 0.17         Z: -4.15        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 83029
+Accel X: -1.49          Y: 0.65         Z: 9.51         m/s^2
+Magn. X: 0.37           Y: 0.81         Z: 0.66         gauss
+Gyro  X: 0.90           Y: 0.24         Z: -4.05        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 83225
+Accel X: -1.51          Y: 0.65         Z: 9.50         m/s^2
+Magn. X: 0.37           Y: 0.81         Z: 0.66         gauss
+Gyro  X: 0.87           Y: 0.05         Z: -4.30        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 83422
+Accel X: -1.48          Y: 0.66         Z: 9.43         m/s^2
+Magn. X: 0.37           Y: 0.81         Z: 0.66         gauss
+Gyro  X: 1.18           Y: 0.18         Z: -4.24        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 83619
+Accel X: -1.46          Y: 0.65         Z: 9.47         m/s^2
+Magn. X: 0.37           Y: 0.81         Z: 0.66         gauss
+Gyro  X: 1.25           Y: 0.17         Z: -3.96        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 83815
+Accel X: -1.46          Y: 0.66         Z: 9.61         m/s^2
+Magn. X: 0.37           Y: 0.81         Z: 0.66         gauss
+Gyro  X: 1.01           Y: 0.32         Z: -4.26        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 84012
+Accel X: -1.48          Y: 0.65         Z: 9.45         m/s^2
+Magn. X: 0.37           Y: 0.82         Z: 0.66         gauss
+Gyro  X: 0.71           Y: 0.21         Z: -4.09        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 84208
+Accel X: -1.47          Y: 0.66         Z: 9.50         m/s^2
+Magn. X: 0.37           Y: 0.82         Z: 0.66         gauss
+Gyro  X: 0.60           Y: 0.17         Z: -4.51        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 84405
+Accel X: -1.46          Y: 0.65         Z: 9.44         m/s^2
+Magn. X: 0.37           Y: 0.81         Z: 0.66         gauss
+Gyro  X: 1.51           Y: 0.03         Z: -4.51        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 84602
+Accel X: -1.49          Y: 0.66         Z: 9.50         m/s^2
+Magn. X: 0.37           Y: 0.81         Z: 0.66         gauss
+Gyro  X: 1.28           Y: 0.45         Z: -4.28        dps
+Temp: 30.75 *C
+**********************
+ 
+Time: 84798
+Accel X: -1.51          Y: 0.63         Z: 9.53         m/s^2
+Magn. X: 0.37           Y: 0.81         Z: 0.66         gauss
+Gyro  X: 0.81           Y: 0.24         Z: -3.88        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 84995
+Accel X: -1.45          Y: 0.66         Z: 9.46         m/s^2
+Magn. X: 0.37           Y: 0.81         Z: 0.66         gauss
+Gyro  X: 0.75           Y: 0.07         Z: -4.30        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 85191
+Accel X: -1.47          Y: 0.66         Z: 9.52         m/s^2
+Magn. X: 0.37           Y: 0.82         Z: 0.66         gauss
+Gyro  X: 0.71           Y: 0.95         Z: -4.03        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 85388
+Accel X: -1.48          Y: 0.64         Z: 9.45         m/s^2
+Magn. X: 0.37           Y: 0.81         Z: 0.66         gauss
+Gyro  X: 0.95           Y: 0.30         Z: -4.33        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 85585
+Accel X: -1.46          Y: 0.64         Z: 9.51         m/s^2
+Magn. X: 0.37           Y: 0.81         Z: 0.66         gauss
+Gyro  X: 0.76           Y: 0.53         Z: -4.39        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 85780
+Accel X: -3.71          Y: -1.48        Z: 10.97        m/s^2
+Magn. X: 0.40           Y: 0.86         Z: 0.63         gauss
+Gyro  X: 19.92          Y: 30.60        Z: -2.67        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 85981
+Accel X: -2.46          Y: -1.53        Z: 10.04        m/s^2
+Magn. X: 0.44           Y: 0.94         Z: 0.52         gauss
+Gyro  X: 1.02           Y: 20.99        Z: 4.59         dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 86180
+Accel X: -3.10          Y: 1.81         Z: 8.41         m/s^2
+Magn. X: 0.42           Y: 0.93         Z: 0.45         gauss
+Gyro  X: -0.25          Y: 1.39         Z: -25.52       dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 86378
+Accel X: -4.11          Y: -0.10        Z: 6.71         m/s^2
+Magn. X: 0.38           Y: 0.98         Z: 0.41         gauss
+Gyro  X: -23.02         Y: 25.09        Z: -12.22       dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 86580
+Accel X: -7.69          Y: -4.40        Z: 8.30         m/s^2
+Magn. X: 0.44           Y: 1.00         Z: 0.12         gauss
+Gyro  X: -141.84        Y: 163.39       Z: 29.96        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 86784
+Accel X: -4.15          Y: -4.83        Z: 19.60        m/s^2
+Magn. X: 0.39           Y: 0.97         Z: -0.15        gauss
+Gyro  X: 108.26         Y: -64.38       Z: -59.78       dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 86989
+Accel X: -19.60         Y: -19.60       Z: 19.60        m/s^2
+Magn. X: -0.31          Y: 0.52         Z: 0.58         gauss
+Gyro  X: 286.58         Y: -286.72      Z: 139.55       dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 87196
+Accel X: -19.60         Y: -19.60       Z: 19.60        m/s^2
+Magn. X: -0.15          Y: 0.61         Z: 0.54         gauss
+Gyro  X: 286.58         Y: -286.72      Z: 120.21       dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 87404
+Accel X: -19.60         Y: -19.60       Z: 19.60        m/s^2
+Magn. X: 0.10           Y: 0.74         Z: 0.41         gauss
+Gyro  X: 286.58         Y: -286.72      Z: 61.15        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 87610
+Accel X: -19.60         Y: -19.60       Z: 19.60        m/s^2
+Magn. X: 0.04           Y: 0.72         Z: 0.46         gauss
+Gyro  X: 286.58         Y: -286.72      Z: -33.70       dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 87817
+Accel X: 15.09          Y: 3.29         Z: -2.85        m/s^2
+Magn. X: -0.64          Y: 0.58         Z: 0.10         gauss
+Gyro  X: -5.78          Y: -95.38       Z: 26.72        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 88019
+Accel X: 7.85           Y: 3.22         Z: -3.30        m/s^2
+Magn. X: -0.65          Y: 0.56         Z: 0.08         gauss
+Gyro  X: -32.87         Y: -2.95        Z: -45.33       dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 88220
+Accel X: 7.91           Y: -1.70        Z: -4.21        m/s^2
+Magn. X: -0.67          Y: 0.56         Z: -0.01        gauss
+Gyro  X: 15.98          Y: -54.92       Z: -25.21       dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 88424
+Accel X: 4.80           Y: 3.78         Z: -6.45        m/s^2
+Magn. X: -0.64          Y: 0.48         Z: -0.17        gauss
+Gyro  X: 140.31         Y: -121.83      Z: -15.40       dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 88629
+Accel X: 2.31           Y: 2.00         Z: -11.98       m/s^2
+Magn. X: -0.58          Y: 0.46         Z: -0.31        gauss
+Gyro  X: 28.01          Y: -88.55       Z: -32.92       dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 88833
+Accel X: 2.55           Y: 0.94         Z: -12.09       m/s^2
+Magn. X: -0.52          Y: 0.49         Z: -0.39        gauss
+Gyro  X: 27.30          Y: -49.59       Z: -20.79       dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 89037
+Accel X: 1.04           Y: 1.46         Z: -13.22       m/s^2
+Magn. X: -0.46          Y: 0.52         Z: -0.44        gauss
+Gyro  X: 27.24          Y: 4.94         Z: 24.62        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 89237
+Accel X: -1.43          Y: 0.07         Z: -8.53        m/s^2
+Magn. X: -0.43          Y: 0.57         Z: -0.46        gauss
+Gyro  X: 27.18          Y: -8.02        Z: 2.75         dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 89438
+Accel X: -2.46          Y: -0.80        Z: -10.36       m/s^2
+Magn. X: -0.39          Y: 0.60         Z: -0.48        gauss
+Gyro  X: -4.00          Y: 7.15         Z: -3.73        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 89641
+Accel X: -2.25          Y: -0.87        Z: -10.07       m/s^2
+Magn. X: -0.40          Y: 0.60         Z: -0.48        gauss
+Gyro  X: 4.08           Y: -7.28        Z: -4.41        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 89844
+Accel X: -2.10          Y: -0.87        Z: -9.87        m/s^2
+Magn. X: -0.40          Y: 0.60         Z: -0.48        gauss
+Gyro  X: 2.92           Y: -2.64        Z: -3.67        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 90046
+Accel X: -2.06          Y: -0.91        Z: -9.95        m/s^2
+Magn. X: -0.40          Y: 0.60         Z: -0.48        gauss
+Gyro  X: 1.33           Y: -0.88        Z: -4.57        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 90248
+Accel X: -2.10          Y: -0.90        Z: -9.94        m/s^2
+Magn. X: -0.40          Y: 0.60         Z: -0.48        gauss
+Gyro  X: 1.23           Y: 0.25         Z: -4.24        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 90449
+Accel X: -2.13          Y: -0.91        Z: -10.01       m/s^2
+Magn. X: -0.40          Y: 0.60         Z: -0.48        gauss
+Gyro  X: 1.02           Y: 0.21         Z: -4.39        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 90650
+Accel X: -2.12          Y: -0.91        Z: -9.85        m/s^2
+Magn. X: -0.40          Y: 0.60         Z: -0.48        gauss
+Gyro  X: 0.46           Y: 0.60         Z: -4.71        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 90851
+Accel X: -2.17          Y: -0.93        Z: -9.98        m/s^2
+Magn. X: -0.40          Y: 0.60         Z: -0.48        gauss
+Gyro  X: 1.37           Y: 0.06         Z: -4.30        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 91052
+Accel X: -2.12          Y: -0.94        Z: -9.94        m/s^2
+Magn. X: -0.40          Y: 0.60         Z: -0.49        gauss
+Gyro  X: 1.11           Y: -0.08        Z: -4.66        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 91253
+Accel X: -2.15          Y: -0.96        Z: -9.86        m/s^2
+Magn. X: -0.39          Y: 0.60         Z: -0.48        gauss
+Gyro  X: 1.09           Y: -0.21        Z: -4.37        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 91455
+Accel X: -2.14          Y: -0.94        Z: -9.97        m/s^2
+Magn. X: -0.40          Y: 0.60         Z: -0.48        gauss
+Gyro  X: 1.26           Y: 0.08         Z: -4.41        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 91656
+Accel X: -2.20          Y: -0.91        Z: -9.98        m/s^2
+Magn. X: -0.39          Y: 0.60         Z: -0.48        gauss
+Gyro  X: 0.74           Y: 0.29         Z: -4.50        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 91857
+Accel X: -2.13          Y: -0.93        Z: -9.96        m/s^2
+Magn. X: -0.39          Y: 0.60         Z: -0.48        gauss
+Gyro  X: 0.84           Y: 0.39         Z: -4.73        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 92057
+Accel X: -2.18          Y: -0.96        Z: -9.93        m/s^2
+Magn. X: -0.40          Y: 0.60         Z: -0.48        gauss
+Gyro  X: 0.70           Y: 0.61         Z: -4.41        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 92258
+Accel X: -2.18          Y: -0.95        Z: -9.94        m/s^2
+Magn. X: -0.39          Y: 0.60         Z: -0.48        gauss
+Gyro  X: 1.21           Y: 0.15         Z: -4.98        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 92459
+Accel X: -2.17          Y: -0.94        Z: -9.88        m/s^2
+Magn. X: -0.40          Y: 0.60         Z: -0.48        gauss
+Gyro  X: 1.25           Y: -0.03        Z: -4.66        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 92660
+Accel X: -2.18          Y: -0.95        Z: -9.97        m/s^2
+Magn. X: -0.39          Y: 0.60         Z: -0.48        gauss
+Gyro  X: 1.19           Y: 0.45         Z: -4.30        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 92861
+Accel X: -2.45          Y: -1.11        Z: -10.09       m/s^2
+Magn. X: -0.39          Y: 0.60         Z: -0.48        gauss
+Gyro  X: 1.07           Y: -4.70        Z: -3.78        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 93064
+Accel X: -2.57          Y: -1.08        Z: -10.09       m/s^2
+Magn. X: -0.39          Y: 0.60         Z: -0.48        gauss
+Gyro  X: 3.89           Y: -4.27        Z: -4.53        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 93267
+Accel X: -2.36          Y: -1.04        Z: -9.99        m/s^2
+Magn. X: -0.39          Y: 0.60         Z: -0.48        gauss
+Gyro  X: 0.78           Y: 1.66         Z: -5.16        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 93467
+Accel X: -2.09          Y: -0.97        Z: -9.84        m/s^2
+Magn. X: -0.39          Y: 0.60         Z: -0.48        gauss
+Gyro  X: -0.25          Y: 5.21         Z: -4.20        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 93669
+Accel X: -2.40          Y: -0.96        Z: -10.13       m/s^2
+Magn. X: -0.39          Y: 0.60         Z: -0.49        gauss
+Gyro  X: 8.26           Y: -14.39       Z: -5.74        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 93873
+Accel X: -2.60          Y: -1.21        Z: -9.78        m/s^2
+Magn. X: -0.38          Y: 0.62         Z: -0.49        gauss
+Gyro  X: 4.07           Y: 0.12         Z: -0.41        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 94074
+Accel X: -2.48          Y: -1.81        Z: -11.58       m/s^2
+Magn. X: -0.37          Y: 0.62         Z: -0.49        gauss
+Gyro  X: 19.74          Y: 5.07         Z: -17.63       dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 94277
+Accel X: -3.63          Y: -0.65        Z: -14.90       m/s^2
+Magn. X: -0.32          Y: 0.62         Z: -0.50        gauss
+Gyro  X: 2.22           Y: -37.45       Z: -19.92       dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 94482
+Accel X: -2.43          Y: -1.99        Z: -7.42        m/s^2
+Magn. X: -0.27          Y: 0.61         Z: -0.49        gauss
+Gyro  X: 11.52          Y: 31.32        Z: 36.17        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 94685
+Accel X: -1.71          Y: -0.15        Z: -11.11       m/s^2
+Magn. X: -0.35          Y: 0.57         Z: -0.45        gauss
+Gyro  X: -105.96        Y: 51.90        Z: 0.91         dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 94890
+Accel X: -1.90          Y: -1.39        Z: -3.60        m/s^2
+Magn. X: -0.41          Y: 0.51         Z: -0.39        gauss
+Gyro  X: -1.20          Y: 34.10        Z: -25.37       dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 95093
+Accel X: -3.39          Y: -0.06        Z: -8.20        m/s^2
+Magn. X: -0.35          Y: 0.53         Z: -0.42        gauss
+Gyro  X: 36.87          Y: -76.97       Z: -33.35       dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 95298
+Accel X: -4.94          Y: -0.74        Z: -7.50        m/s^2
+Magn. X: -0.23          Y: 0.61         Z: -0.47        gauss
+Gyro  X: 44.78          Y: -44.56       Z: -25.30       dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 95504
+Accel X: -7.83          Y: -3.79        Z: -7.63        m/s^2
+Magn. X: -0.11          Y: 0.70         Z: -0.48        gauss
+Gyro  X: 72.24          Y: -67.83       Z: -0.94        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 95708
+Accel X: -7.82          Y: -5.28        Z: -14.49       m/s^2
+Magn. X: 0.04           Y: 0.85         Z: -0.42        gauss
+Gyro  X: 62.46          Y: -74.79       Z: 3.68         dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 95911
+Accel X: -8.69          Y: -6.42        Z: -19.60       m/s^2
+Magn. X: -0.02          Y: 0.82         Z: -0.43        gauss
+Gyro  X: -98.22         Y: 119.10       Z: -28.27       dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 96117
+Accel X: -2.59          Y: -0.60        Z: 2.43         m/s^2
+Magn. X: -0.22          Y: 0.68         Z: -0.41        gauss
+Gyro  X: 261.60         Y: -281.30      Z: 68.73        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 96322
+Accel X: -1.00          Y: 0.02         Z: 0.67         m/s^2
+Magn. X: 0.05           Y: 0.97         Z: -0.21        gauss
+Gyro  X: 197.09         Y: -193.79      Z: 26.61        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 96525
+Accel X: -0.64          Y: 0.36         Z: -0.16        m/s^2
+Magn. X: 0.19           Y: 1.06         Z: 0.09         gauss
+Gyro  X: 110.70         Y: -104.91      Z: 23.94        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 96728
+Accel X: -0.72          Y: 0.45         Z: -0.15        m/s^2
+Magn. X: 0.23           Y: 0.95         Z: 0.36         gauss
+Gyro  X: 52.12          Y: -58.24       Z: 37.01        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 96928
+Accel X: -0.76          Y: 0.36         Z: 0.22         m/s^2
+Magn. X: 0.20           Y: 0.77         Z: 0.43         gauss
+Gyro  X: -54.98         Y: 10.42        Z: 47.20        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 97128
+Accel X: 15.05          Y: -3.80        Z: 13.45        m/s^2
+Magn. X: 0.13           Y: 0.84         Z: 0.38         gauss
+Gyro  X: -270.45        Y: -92.52       Z: 55.08        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 97332
+Accel X: -2.89          Y: -4.19        Z: 4.89         m/s^2
+Magn. X: 0.24           Y: 0.83         Z: 0.23         gauss
+Gyro  X: -44.77         Y: -71.69       Z: -67.17       dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 97535
+Accel X: -0.30          Y: -6.29        Z: 7.38         m/s^2
+Magn. X: 0.23           Y: 0.92         Z: 0.22         gauss
+Gyro  X: 65.66          Y: 146.66       Z: 36.45        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 97735
+Accel X: -0.74          Y: -1.12        Z: 7.96         m/s^2
+Magn. X: 0.18           Y: 0.89         Z: 0.32         gauss
+Gyro  X: -5.24          Y: -51.43       Z: -33.92       dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 97937
+Accel X: -3.06          Y: -5.47        Z: 8.51         m/s^2
+Magn. X: 0.21           Y: 0.81         Z: 0.33         gauss
+Gyro  X: 69.70          Y: 6.05         Z: -14.53       dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 98137
+Accel X: -4.64          Y: 1.87         Z: 13.96        m/s^2
+Magn. X: 0.21           Y: 0.76         Z: 0.37         gauss
+Gyro  X: 90.97          Y: 25.71        Z: -3.63        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 98336
+Accel X: -2.80          Y: 5.28         Z: 13.96        m/s^2
+Magn. X: 0.20           Y: 0.75         Z: 0.39         gauss
+Gyro  X: 49.57          Y: 16.13        Z: -38.75       dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 98537
+Accel X: 1.38           Y: -1.67        Z: 4.89         m/s^2
+Magn. X: 0.11           Y: 0.84         Z: 0.44         gauss
+Gyro  X: 13.08          Y: -6.00        Z: 13.01        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 98736
+Accel X: -1.41          Y: -1.49        Z: 8.38         m/s^2
+Magn. X: 0.18           Y: 0.81         Z: 0.40         gauss
+Gyro  X: -69.04         Y: -84.12       Z: -23.54       dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 98939
+Accel X: -1.22          Y: -0.92        Z: 7.78         m/s^2
+Magn. X: 0.17           Y: 0.80         Z: 0.41         gauss
+Gyro  X: -44.15         Y: 30.48        Z: -5.70        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 99139
+Accel X: -1.40          Y: 1.05         Z: 9.67         m/s^2
+Magn. X: 0.16           Y: 0.78         Z: 0.42         gauss
+Gyro  X: 12.26          Y: 23.00        Z: -3.94        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 99338
+Accel X: -1.30          Y: 0.63         Z: 9.30         m/s^2
+Magn. X: 0.17           Y: 0.78         Z: 0.42         gauss
+Gyro  X: -3.54          Y: -7.61        Z: -4.79        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 99537
+Accel X: -1.45          Y: 0.70         Z: 9.45         m/s^2
+Magn. X: 0.17           Y: 0.79         Z: 0.42         gauss
+Gyro  X: 4.73           Y: -2.48        Z: -3.81        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 99734
+Accel X: -1.42          Y: 0.63         Z: 9.37         m/s^2
+Magn. X: 0.17           Y: 0.78         Z: 0.42         gauss
+Gyro  X: 1.56           Y: -1.86        Z: -3.93        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 99932
+Accel X: -1.43          Y: 0.63         Z: 9.53         m/s^2
+Magn. X: 0.17           Y: 0.78         Z: 0.42         gauss
+Gyro  X: 1.18           Y: -1.09        Z: -4.79        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 100130
+Accel X: -1.48          Y: 0.63         Z: 9.40         m/s^2
+Magn. X: 0.17           Y: 0.78         Z: 0.42         gauss
+Gyro  X: 0.95           Y: 0.67         Z: -4.95        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 100327
+Accel X: -1.50          Y: 0.63         Z: 9.47         m/s^2
+Magn. X: 0.17           Y: 0.78         Z: 0.42         gauss
+Gyro  X: 1.08           Y: 0.62         Z: -4.54        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 100525
+Accel X: -1.54          Y: 0.59         Z: 9.58         m/s^2
+Magn. X: 0.17           Y: 0.78         Z: 0.42         gauss
+Gyro  X: 0.47           Y: 0.54         Z: -4.94        dps
+Temp: 30.87 *C
+**********************
+ 
+Time: 100722
+Accel X: -1.51          Y: 0.61         Z: 9.53         m/s^2
+Magn. X: 0.17           Y: 0.79         Z: 0.42         gauss
+Gyro  X: 0.81           Y: 0.89         Z: -4.63        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 100920
+Accel X: -1.52          Y: 0.63         Z: 9.52         m/s^2
+Magn. X: 0.17           Y: 0.79         Z: 0.42         gauss
+Gyro  X: 0.91           Y: 0.59         Z: -4.62        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 101118
+Accel X: -1.52          Y: 0.61         Z: 9.51         m/s^2
+Magn. X: 0.17           Y: 0.79         Z: 0.42         gauss
+Gyro  X: 0.89           Y: 0.33         Z: -4.70        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 101315
+Accel X: -1.52          Y: 0.58         Z: 9.52         m/s^2
+Magn. X: 0.17           Y: 0.79         Z: 0.42         gauss
+Gyro  X: 0.88           Y: 0.21         Z: -4.70        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 101513
+Accel X: -1.50          Y: 0.63         Z: 9.53         m/s^2
+Magn. X: 0.17           Y: 0.79         Z: 0.42         gauss
+Gyro  X: 0.60           Y: 0.14         Z: -4.36        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 101711
+Accel X: -1.56          Y: 0.63         Z: 9.49         m/s^2
+Magn. X: 0.17           Y: 0.78         Z: 0.42         gauss
+Gyro  X: 0.11           Y: 0.42         Z: -4.45        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 101908
+Accel X: -1.53          Y: 0.62         Z: 9.55         m/s^2
+Magn. X: 0.17           Y: 0.78         Z: 0.42         gauss
+Gyro  X: 0.94           Y: 0.17         Z: -4.74        dps
+Temp: 31.25 *C
+**********************
+ 
+Time: 102106
+Accel X: -1.53          Y: 0.62         Z: 9.45         m/s^2
+Magn. X: 0.17           Y: 0.79         Z: 0.42         gauss
+Gyro  X: 0.79           Y: 0.80         Z: -4.84        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 102303
+Accel X: -1.54          Y: 0.62         Z: 9.50         m/s^2
+Magn. X: 0.17           Y: 0.79         Z: 0.42         gauss
+Gyro  X: 0.87           Y: 0.04         Z: -4.73        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 102501
+Accel X: -1.52          Y: 0.61         Z: 9.47         m/s^2
+Magn. X: 0.17           Y: 0.79         Z: 0.42         gauss
+Gyro  X: 1.12           Y: 0.24         Z: -4.64        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 102699
+Accel X: -1.77          Y: 0.55         Z: 10.34        m/s^2
+Magn. X: 0.17           Y: 0.78         Z: 0.42         gauss
+Gyro  X: 40.93          Y: -35.18       Z: 2.28         dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 102899
+Accel X: -3.18          Y: 1.56         Z: 15.21        m/s^2
+Magn. X: 0.21           Y: 0.83         Z: 0.37         gauss
+Gyro  X: -28.30         Y: 73.76        Z: -35.89       dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 103102
+Accel X: -6.76          Y: -3.64        Z: 7.21         m/s^2
+Magn. X: 0.27           Y: 0.80         Z: 0.27         gauss
+Gyro  X: -23.37         Y: 22.89        Z: 12.95        dps
+Temp: 31.25 *C
+**********************
+ 
+Time: 103304
+Accel X: -4.44          Y: -1.41        Z: 6.45         m/s^2
+Magn. X: 0.26           Y: 0.82         Z: 0.25         gauss
+Gyro  X: 7.69           Y: 31.94        Z: 1.56         dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 103503
+Accel X: -3.48          Y: -1.82        Z: 8.29         m/s^2
+Magn. X: 0.26           Y: 0.81         Z: 0.26         gauss
+Gyro  X: -34.08         Y: 13.38        Z: 10.61        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 103704
+Accel X: -5.06          Y: -1.94        Z: 7.64         m/s^2
+Magn. X: 0.26           Y: 0.77         Z: 0.27         gauss
+Gyro  X: -3.96          Y: -13.13       Z: 7.51         dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 103905
+Accel X: -4.77          Y: 0.49         Z: 8.73         m/s^2
+Magn. X: 0.29           Y: 0.76         Z: 0.19         gauss
+Gyro  X: 31.79          Y: 133.98       Z: -12.33       dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 104107
+Accel X: -7.83          Y: -1.57        Z: 7.10         m/s^2
+Magn. X: 0.29           Y: 0.78         Z: 0.14         gauss
+Gyro  X: -26.99         Y: 19.30        Z: 4.72         dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 104307
+Accel X: -7.44          Y: -1.49        Z: 6.05         m/s^2
+Magn. X: 0.29           Y: 0.80         Z: 0.11         gauss
+Gyro  X: 8.72           Y: 14.64        Z: -16.78       dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 104508
+Accel X: -7.45          Y: -2.23        Z: 7.49         m/s^2
+Magn. X: 0.30           Y: 0.80         Z: 0.08         gauss
+Gyro  X: -12.28         Y: 8.79         Z: -3.69        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 104709
+Accel X: -7.10          Y: -1.52        Z: 6.65         m/s^2
+Magn. X: 0.29           Y: 0.79         Z: 0.08         gauss
+Gyro  X: -0.75          Y: 3.79         Z: -5.96        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 104909
+Accel X: -9.20          Y: -2.36        Z: 2.56         m/s^2
+Magn. X: 0.30           Y: 0.78         Z: 0.06         gauss
+Gyro  X: -15.92         Y: 19.97        Z: 10.30        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 105110
+Accel X: -12.07         Y: -3.24        Z: 6.84         m/s^2
+Magn. X: 0.27           Y: 0.69         Z: -0.10        gauss
+Gyro  X: -72.06         Y: 93.24        Z: 53.50        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 105314
+Accel X: 6.53           Y: -8.33        Z: 19.60        m/s^2
+Magn. X: 0.22           Y: 0.60         Z: -0.18        gauss
+Gyro  X: -55.68         Y: -68.43       Z: -0.36        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 105518
+Accel X: -2.07          Y: 0.29         Z: -2.20        m/s^2
+Magn. X: 0.38           Y: 0.80         Z: -0.06        gauss
+Gyro  X: 4.51           Y: 234.75       Z: -55.37       dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 105721
+Accel X: -1.01          Y: 0.41         Z: -1.33        m/s^2
+Magn. X: 0.13           Y: 0.94         Z: -0.35        gauss
+Gyro  X: 138.08         Y: 202.36       Z: -20.51       dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 105925
+Accel X: -1.18          Y: -0.03        Z: -1.21        m/s^2
+Magn. X: -0.06          Y: 1.09         Z: -0.20        gauss
+Gyro  X: 198.05         Y: 168.16       Z: 24.13        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 106131
+Accel X: 16.19          Y: 12.95        Z: -12.04       m/s^2
+Magn. X: -0.64          Y: 0.52         Z: -0.10        gauss
+Gyro  X: 168.21         Y: -260.33      Z: -277.76      dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 106341
+Accel X: 2.49           Y: -4.16        Z: -7.02        m/s^2
+Magn. X: -0.56          Y: 0.60         Z: -0.25        gauss
+Gyro  X: -78.01         Y: 126.78       Z: 24.10        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 106546
+Accel X: 5.56           Y: -1.83        Z: -6.62        m/s^2
+Magn. X: -0.63          Y: 0.59         Z: -0.15        gauss
+Gyro  X: -78.53         Y: -9.45        Z: 9.80         dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 106750
+Accel X: 6.60           Y: 0.68         Z: -7.96        m/s^2
+Magn. X: -0.65          Y: 0.59         Z: -0.06        gauss
+Gyro  X: -47.94         Y: 51.80        Z: 11.09        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 106952
+Accel X: 3.30           Y: 2.32         Z: -4.14        m/s^2
+Magn. X: -0.63          Y: 0.70         Z: -0.08        gauss
+Gyro  X: -21.95         Y: -54.54       Z: 14.98        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 107156
+Accel X: 11.23          Y: -1.15        Z: -6.77        m/s^2
+Magn. X: -0.64          Y: 0.67         Z: -0.09        gauss
+Gyro  X: -63.47         Y: -15.22       Z: -25.20       dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 107363
+Accel X: 4.04           Y: 0.09         Z: -3.68        m/s^2
+Magn. X: -0.64          Y: 0.67         Z: -0.06        gauss
+Gyro  X: -44.60         Y: 25.03        Z: 15.65        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 107566
+Accel X: 12.04          Y: 2.85         Z: 1.58         m/s^2
+Magn. X: -0.65          Y: 0.65         Z: -0.01        gauss
+Gyro  X: 39.46          Y: 45.82        Z: -8.22        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 107768
+Accel X: 5.46           Y: -4.44        Z: -6.39        m/s^2
+Magn. X: -0.63          Y: 0.66         Z: -0.10        gauss
+Gyro  X: 40.99          Y: -10.28       Z: -148.86      dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 107973
+Accel X: 5.64           Y: 2.27         Z: -9.86        m/s^2
+Magn. X: -0.60          Y: 0.49         Z: -0.17        gauss
+Gyro  X: 64.66          Y: -22.68       Z: -79.54       dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 108177
+Accel X: 2.84           Y: 0.79         Z: -9.45        m/s^2
+Magn. X: -0.55          Y: 0.41         Z: -0.19        gauss
+Gyro  X: 37.88          Y: -20.00       Z: -91.52       dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 108381
+Accel X: 1.66           Y: 0.92         Z: -7.51        m/s^2
+Magn. X: -0.49          Y: 0.38         Z: -0.25        gauss
+Gyro  X: 22.78          Y: -31.39       Z: -93.46       dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 108585
+Accel X: 0.06           Y: 2.50         Z: -9.24        m/s^2
+Magn. X: -0.40          Y: 0.36         Z: -0.31        gauss
+Gyro  X: 19.37          Y: -14.70       Z: -25.44       dps
+Temp: 31.25 *C
+**********************
+ 
+Time: 108788
+Accel X: -0.73          Y: 0.63         Z: -12.49       m/s^2
+Magn. X: -0.34          Y: 0.37         Z: -0.33        gauss
+Gyro  X: 4.24           Y: -41.71       Z: -16.61       dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 108993
+Accel X: -0.97          Y: 2.05         Z: -2.39        m/s^2
+Magn. X: -0.33          Y: 0.39         Z: -0.34        gauss
+Gyro  X: -29.48         Y: -6.90        Z: -25.11       dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 109198
+Accel X: -6.19          Y: -1.82        Z: -4.74        m/s^2
+Magn. X: -0.27          Y: 0.45         Z: -0.41        gauss
+Gyro  X: 168.98         Y: -107.14      Z: 169.46       dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 109406
+Accel X: -7.21          Y: -6.00        Z: -12.69       m/s^2
+Magn. X: -0.20          Y: 0.57         Z: -0.47        gauss
+Gyro  X: 61.30          Y: -24.88       Z: 97.15        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 109613
+Accel X: -8.00          Y: -2.34        Z: -12.62       m/s^2
+Magn. X: -0.18          Y: 0.57         Z: -0.49        gauss
+Gyro  X: -19.64         Y: 28.48        Z: 18.48        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 109819
+Accel X: -2.97          Y: -1.08        Z: -8.99        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.48        gauss
+Gyro  X: -57.65         Y: 134.54       Z: -32.19       dps
+Temp: 31.37 *C
+**********************
+ 
+Time: 110025
+Accel X: -2.60          Y: -1.14        Z: -10.40       m/s^2
+Magn. X: -0.37          Y: 0.59         Z: -0.47        gauss
+Gyro  X: 34.90          Y: -85.33       Z: -5.89        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 110231
+Accel X: -1.47          Y: -0.92        Z: -9.59        m/s^2
+Magn. X: -0.37          Y: 0.59         Z: -0.47        gauss
+Gyro  X: -7.60          Y: 28.28        Z: -6.56        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 110435
+Accel X: -2.87          Y: -1.41        Z: -9.97        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.48        gauss
+Gyro  X: -2.49          Y: 9.19         Z: -6.66        dps
+Temp: 31.25 *C
+**********************
+ 
+Time: 110638
+Accel X: -2.57          Y: -1.21        Z: -9.98        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 3.80           Y: -5.36        Z: -5.59        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 110841
+Accel X: -2.39          Y: -1.12        Z: -9.90        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 2.63           Y: -3.60        Z: -5.41        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 111043
+Accel X: -2.38          Y: -1.09        Z: -9.86        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 1.32           Y: -1.37        Z: -5.31        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 111246
+Accel X: -2.36          Y: -1.12        Z: -9.98        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.48        gauss
+Gyro  X: 1.55           Y: -0.67        Z: -5.90        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 111449
+Accel X: -2.40          Y: -1.12        Z: -9.89        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 0.97           Y: 0.07         Z: -6.11        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 111651
+Accel X: -2.39          Y: -1.14        Z: -9.96        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 1.40           Y: 0.50         Z: -6.14        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 111852
+Accel X: -2.42          Y: -1.11        Z: -10.00       m/s^2
+Magn. X: -0.36          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 1.01           Y: 0.55         Z: -5.73        dps
+Temp: 31.25 *C
+**********************
+ 
+Time: 112055
+Accel X: -2.38          Y: -1.10        Z: -10.09       m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 1.16           Y: 0.64         Z: -6.08        dps
+Temp: 31.25 *C
+**********************
+ 
+Time: 112258
+Accel X: -2.44          Y: -1.11        Z: -9.80        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 1.53           Y: 0.55         Z: -5.93        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 112459
+Accel X: -2.39          Y: -1.12        Z: -9.97        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 0.72           Y: 0.60         Z: -6.17        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 112661
+Accel X: -2.41          Y: -1.11        Z: -9.94        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 0.83           Y: 0.24         Z: -6.11        dps
+Temp: 31.25 *C
+**********************
+ 
+Time: 112863
+Accel X: -2.40          Y: -1.11        Z: -9.99        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 1.09           Y: 0.45         Z: -5.95        dps
+Temp: 31.25 *C
+**********************
+ 
+Time: 113065
+Accel X: -2.40          Y: -1.09        Z: -9.94        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 1.19           Y: 0.38         Z: -6.22        dps
+Temp: 31.25 *C
+**********************
+ 
+Time: 113266
+Accel X: -2.41          Y: -1.12        Z: -9.95        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 1.23           Y: 0.14         Z: -5.86        dps
+Temp: 31.25 *C
+**********************
+ 
+Time: 113468
+Accel X: -2.46          Y: -1.13        Z: -9.93        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 1.41           Y: 0.55         Z: -5.71        dps
+Temp: 31.00 *C
+**********************
+ 
+Time: 113670
+Accel X: -2.43          Y: -1.13        Z: -9.93        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 1.11           Y: 0.20         Z: -6.26        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 113873
+Accel X: -2.43          Y: -1.14        Z: -10.04       m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 1.35           Y: 0.36         Z: -6.11        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 114075
+Accel X: -2.38          Y: -1.13        Z: -9.96        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 0.67           Y: 0.52         Z: -5.77        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 114277
+Accel X: -2.45          Y: -1.13        Z: -9.91        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 1.39           Y: 0.35         Z: -5.64        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 114479
+Accel X: -2.41          Y: -1.12        Z: -9.91        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.48        gauss
+Gyro  X: 1.03           Y: 0.60         Z: -5.92        dps
+Temp: 31.25 *C
+**********************
+ 
+Time: 114681
+Accel X: -2.45          Y: -1.12        Z: -9.92        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 1.24           Y: 0.54         Z: -6.19        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 114882
+Accel X: -2.41          Y: -1.12        Z: -9.96        m/s^2
+Magn. X: -0.36          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 1.09           Y: 0.31         Z: -5.88        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 115084
+Accel X: -2.42          Y: -1.13        Z: -9.97        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 1.12           Y: 0.38         Z: -6.21        dps
+Temp: 31.25 *C
+**********************
+ 
+Time: 115286
+Accel X: -2.43          Y: -1.09        Z: -10.02       m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 0.81           Y: 0.46         Z: -6.15        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 115488
+Accel X: -2.45          Y: -1.11        Z: -9.93        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X: 1.40           Y: 0.13         Z: -6.22        dps
+Temp: 31.12 *C
+**********************
+ 
+Time: 115690
+Accel X: -2.42          Y: -1.12        Z: -9.92        m/s^2
+Magn. X: -0.35          Y: 0.60         Z: -0.47        gauss
+Gyro  X:
+[Closed]
+ 
